@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Calm",
+    "description": "Start your day with gentle awareness and slow breathing to set a peaceful tone.",
+    "duration": 5,
+    "category": "Focus",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "Deep Sleep Wind Down",
+    "description": "Ease into sleep with a full body scan and rhythmic breathing patterns.",
+    "duration": 15,
+    "category": "Sleep",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 3,
+    "title": "Stress Relief Reset",
+    "description": "Release tension with guided breathwork and a calming mental imagery exercise.",
+    "duration": 10,
+    "category": "Stress Relief",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 4,
+    "title": "Laser Focus",
+    "description": "Prime your mind for deep work with a concentration-building meditation technique.",
+    "duration": 10,
+    "category": "Focus",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Midnight Stillness",
+    "description": "Quiet the mental chatter before bed with a slow, guided body relaxation session.",
+    "duration": 20,
+    "category": "Sleep",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 6,
+    "title": "Anxiety Ease",
+    "description": "Ground yourself in the present moment and gently dissolve anxious thought patterns.",
+    "duration": 10,
+    "category": "Stress Relief",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 7,
+    "title": "Flow State Entry",
+    "description": "A focused attention session designed to help you enter a productive flow state quickly.",
+    "duration": 15,
+    "category": "Focus",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 8,
+    "title": "Dream Preparation",
+    "description": "Drift into restful sleep through progressive muscle relaxation and visualisation.",
+    "duration": 20,
+    "category": "Sleep",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 9,
+    "title": "Inner Stillness",
+    "description": "A silent awareness practice for those seeking deep presence and mental clarity.",
+    "duration": 20,
+    "category": "Stress Relief",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 10,
+    "title": "Quick Recharge",
+    "description": "A short burst of mindful breathing to reset your energy mid-day.",
+    "duration": 5,
+    "category": "Focus",
+    "difficulty": "Beginner"
+  }
+]
