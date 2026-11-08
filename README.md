@@ -83,8 +83,7 @@ MeditationMindfulnessApp
 ├── Services            → Networking & local persistence
 ├── Views               → Screen-level SwiftUI views
 ├── Components          → Reusable UI building blocks
-├── Helpers             → Constants, formatters, haptics, theme manager
-└── Extensions           → Color and view modifier extensions
+└── Helpers             → Constants, formatters, haptics, theme manager
 ```
 
 Each screen has a dedicated ViewModel that owns its state and talks to the `Services` layer, keeping views declarative and free of business logic.
